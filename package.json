@@ -1,21 +1,21 @@
 {
-  "name": "parcel-project-template",
+  "name": "parcel-temp",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/VadimVyalov/parcel-project-template",
+  "homepage": "https://github.com/VadimVyalov/parcel-temp",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /parcel-temp/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VadimVyalov/parcel-project-template.git"
+    "url": "git+https://github.com/VadimVyalov/parcel-temp.git"
   },
   "keywords": [],
   "author": "Vadim Vyalov <vyalov.vadim@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/VadimVyalov/parcel-project-template/issues"
+    "url": "https://github.com/VadimVyalov/parcel-temp/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
